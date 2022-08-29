@@ -1,2 +1,2 @@
-# offline-doc
-Offline markdown documentation
+# Offline Documentation
+Offline markdown documentation.
